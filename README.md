@@ -1,6 +1,8 @@
 # Welcome 👋!
 ### 🧔 About Me
-- I am a Developer from South London currently working from home full time **Java**, and **Node.js**, 
+- I am a Developer from South London currently working from home full time, my main working stack is Javascript, HTML&CSS and HubL!
+- I switched over after almost a decade working on a building site as an electrician to persue my dream career in software development.
+- In my free time I enjoy; working on private projects, gaming on both my PC and my Quest 2 headset, and going to the Gym.
 
 ### ⚙️ Current Work
 - I currently work for a telecommunications company called Swytch as a web developer.
