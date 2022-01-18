@@ -10,7 +10,7 @@
 **Am I Looking for work?**
 - I am still a Junior developer so I am always looking for new projects and ideas to learn and grow my skills, if you are interested in working or collaborating on a project just reach out to me!
 
-### ⌨️ Languages/Databases
+### ⌨️ My Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
