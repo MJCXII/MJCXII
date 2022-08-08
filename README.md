@@ -1,11 +1,10 @@
 # Welcome 👋!
 ### 🧔 About Me
-- I am a Developer from South London currently working from home full time, my main working stack is Javascript, PHP, and HTML & CSS!
+- I am a Developer from South London currently working in London, my main working stack is Javascript, PHP, and VueJS!
 - I switched over after almost a decade working on a building site as an electrician to persue my dream career in software development.
-- In my free time I enjoy; working on private projects, gaming on both my PC and my Quest 2 headset, and going to the Gym.
 
 ### ⚙️ Current Work
-- I currently work for a telecommunications company called Swytch as a web developer.
+- I currently work for Ticketpass as a backend developer.
 
 **Am I Looking for work?**
 - I am still a Junior developer so I am always looking for new projects and ideas to learn and grow my skills, if you are interested in working or collaborating on a project just reach out to me!
