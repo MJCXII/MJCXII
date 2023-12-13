@@ -1,10 +1,10 @@
 # Welcome 👋!
 ### 🧔 About Me
-- I am a Developer from South London currently working in London, my main working stack is Javascript, PHP, and VueJS!
-- I switched over after almost a decade working on a building site as an electrician to persue my dream career in software development.
+- I am a Developer from South London currently working in London, my main working stack is Java Bootspring, MySQL, DynamoDB, AWS, Snowflake, Terraform
+- I switched over after almost a decade working on a building site as an electrician to pursue my dream career in software development.
 
 ### ⚙️ Current Work
-- I currently work for Ticketpass as a backend developer.
+- I currently work for Marshmallow as a Backend Developer.
 
 ### ⌨️ My Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
