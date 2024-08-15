@@ -1,6 +1,6 @@
 # Welcome 👋!
 ### 🧔 About Me
-- I am a Developer from South London currently working in London, my main working stack is Java Bootspring, MySQL, DynamoDB, AWS, Snowflake, Terraform
+- I am a Developer from South London currently working in London, my main working stack is Java SpringBoot, MySQL, DynamoDB, AWS, Snowflake, Terraform
 - I switched over after almost a decade working on a building site as an electrician to pursue my dream career in software development.
 
 ### ⚙️ Current Work
